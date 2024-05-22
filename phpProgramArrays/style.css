@@ -1,0 +1,14 @@
+p, pre, h3 {padding: 0px; margin: 3px;}
+body {font-family: Verdana, Arial, sans-serif; margin-left: 20px;}
+.error { font-weight: bold; color: #C00;}
+p {margin-left: 15px; margin-bottom: 10px;}
+pre {margin-left: 30px; padding-bottom: 20px;}
+h1 {color: blue;}
+h4 {color: #4b0082; 
+	margin-top: 20px; 
+	margin-bottom: 10px; 
+	background-color: #dcd0ff;
+	padding: 4px;
+	border: #4b0082 solid 1px;
+	border-radius: 5px;
+}
